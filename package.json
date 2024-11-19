@@ -9,7 +9,7 @@
     "a2hs": "1.x",
     "chart.js": "2.x",
     "downshift": "3.x",
-    "firebase": "6.x",
+    "firebase": "10.x",
     "firebaseui": "3.x",
     "fireform": "0.x",
     "firekit": "1.x",
